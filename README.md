@@ -1,5 +1,4 @@
 # ChatGPT_Clone 
-# ChatGptClone 
 # InterviewBot
 
 ![InterviewBot](interviewbot.jpg)
